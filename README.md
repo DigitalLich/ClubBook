@@ -21,6 +21,6 @@ Planned Features:
 - Forums (Maybe...)
 
 Collaborators:
-Digital Lich
-Scuallo
-Mordrak
+- Digital Lich
+- Scuallo
+- Mordrak
