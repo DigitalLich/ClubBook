@@ -19,3 +19,8 @@ Planned Features:
     - Dates
     - History
 - Forums (Maybe...)
+
+Collaborators:
+Digital Lich
+Scuallo
+Mordrak
